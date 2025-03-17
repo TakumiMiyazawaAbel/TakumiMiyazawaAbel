@@ -1,4 +1,4 @@
-## Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=TakumiMiyazawaAbel)](https://github.com/TakumiMiyazawaAbel/github-profile-trophy)
 
 <!--
 **TakumiMiyazawaAbel/TakumiMiyazawaAbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
